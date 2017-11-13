@@ -6,7 +6,7 @@
 
 [![Shop Homepage Preview](https://startbootstrap.com/assets/img/templates/shop-homepage.jpg)](https://blackrockdigital.github.io/startbootstrap-shop-homepage/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-shop-homepage/)**
+**[View Live Preview](https://repo.github.io/yafa3com/)**
 
 ## Status
 
